@@ -1,3 +1,6 @@
+### POINTS: .5
+### KEY: Seem to be starting down the right path, but your routes overlap and/or are incomplete and would not run.
+
 # Intro to Django routes 2 graded classwork 
 
 Endpoints are the most important concept when it comes to backend web services. Based on the URL you route the request to the proper piece of code to service the request and return a response.
